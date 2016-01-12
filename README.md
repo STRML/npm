@@ -1,3 +1,18 @@
+npm-2
+=====
+
+Useful if you want npm@2 and npm@3 to coexist on your system.
+
+`npm install -g npm-2`
+
+Then, it can be used like:
+
+`npm-2 install`
+
+This project will track the latest 2.x releases.
+
+Original docs below.
+
 npm(1) -- a JavaScript package manager
 ==============================
 [![Build Status](https://img.shields.io/travis/npm/npm/master.svg)](https://travis-ci.org/npm/npm)
